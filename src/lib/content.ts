@@ -225,11 +225,11 @@ export async function getContent(contentType: string, slugSegments: string[], la
  * 导航分组结构（用于动态 Wiki Navigation）
  */
 export interface NavGroup {
-  /** 分组标题，来自目录名转人类可读格式，如 "bosses" → "Bosses" */
+  /** 分组标题，来自目录名转人类可读格式，如 "guide" → "Getting Started" */
   title: string;
   /** 该分组下的文章数量 */
   count: number;
-  /** 分组 slug（即目录名，如 "bosses"） */
+  /** 分组 slug（即目录名，如 "guide"） */
   slug: string;
   /** 文章链接列表 */
   links: Array<{ label: string; href: string; badge?: string }>;
@@ -237,39 +237,65 @@ export interface NavGroup {
 
 // 分组标题映射：slug → 人类可读标题（默认英文）
 const GROUP_TITLES: Record<string, string> = {
-  bosses: "Bosses",
-  races: "Races",
-  maps: "Maps & Areas",
-  skills: "Skills",
-  codes: "Codes",
   guide: "Getting Started",
-  "tier-list": "Tier Lists",
+  progression: "Progression",
+  mechanics: "Mechanics",
+  codes: "Codes",
+  updates: "Updates",
+  community: "Community",
+  features: "Features",
 };
 
-// 日文分组标题映射
-const GROUP_TITLES_JA: Record<string, string> = {
-  bosses: "ボス",
-  races: "種族",
-  maps: "マップ & エリア",
-  skills: "スキル",
-  codes: "コード",
-  guide: "初心者ガイド",
-  "tier-list": "Tier List",
+// 西班牙语分组标题映射
+const GROUP_TITLES_ES: Record<string, string> = {
+  guide: "Primeros pasos",
+  progression: "Progresión",
+  mechanics: "Mecánicas",
+  codes: "Códigos",
+  updates: "Actualizaciones",
+  community: "Comunidad",
+  features: "Características",
+};
+
+// 葡萄牙语分组标题映射
+const GROUP_TITLES_PT: Record<string, string> = {
+  guide: "Primeiros passos",
+  progression: "Progressão",
+  mechanics: "Mecânicas",
+  codes: "Códigos",
+  updates: "Atualizações",
+  community: "Comunidade",
+  features: "Recursos",
+};
+
+// 印尼语分组标题映射
+const GROUP_TITLES_ID: Record<string, string> = {
+  guide: "Panduan Awal",
+  progression: "Progresi",
+  mechanics: "Mekanik",
+  codes: "Kode",
+  updates: "Pembaruan",
+  community: "Komunitas",
+  features: "Fitur",
 };
 
 // locale → 分组标题映射
 const GROUP_TITLES_BY_LOCALE: Record<string, Record<string, string>> = {
-  ja: GROUP_TITLES_JA,
+  es: GROUP_TITLES_ES,
+  pt: GROUP_TITLES_PT,
+  id: GROUP_TITLES_ID,
 };
 
 // locale → "Overview" 翻译
 const OVERVIEW_LABEL_BY_LOCALE: Record<string, string> = {
-  ja: "一覧",
+  es: "Resumen",
+  pt: "Visão geral",
+  id: "Ikhtisar",
 };
 
 // 分组排序顺序
 const GROUP_ORDER: string[] = [
-  "guide", "races", "bosses", "maps", "skills", "codes", "tier-list",
+  "guide", "progression", "mechanics", "codes", "updates", "community", "features",
 ];
 
 /**

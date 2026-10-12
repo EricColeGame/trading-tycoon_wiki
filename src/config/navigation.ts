@@ -1,10 +1,19 @@
-export interface NavItem {
+export interface NavigationItem {
+  /** 翻译键，同时作为 content/<locale>/ 下的分类目录名 */
   key: string;
-  path: string;
+  /** 分类列表页 URL */
+  path: `/${string}`;
   isContentType: boolean;
 }
 
-// 导航与内容类型留待后续 Part 按新游戏的信息架构重建
-export const NAVIGATION_CONFIG: NavItem[] = [];
+export const NAVIGATION_CONFIG = [
+  { key: "guide", path: "/guide", isContentType: true },
+  { key: "progression", path: "/progression", isContentType: true },
+  { key: "mechanics", path: "/mechanics", isContentType: true },
+  { key: "codes", path: "/codes", isContentType: true },
+  { key: "updates", path: "/updates", isContentType: true },
+  { key: "community", path: "/community", isContentType: true },
+  { key: "features", path: "/features", isContentType: true },
+] satisfies readonly NavigationItem[];
 
-export const CONTENT_TYPES: string[] = [];
+export const CONTENT_TYPES: string[] = NAVIGATION_CONFIG.filter((item) => item.isContentType).map((item) => item.key);

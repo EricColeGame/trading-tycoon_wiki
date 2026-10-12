@@ -8,7 +8,15 @@
   },
   "nav": {
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "home": "Home",
+    "guide": "Guide",
+    "progression": "Progression",
+    "mechanics": "Mechanics",
+    "codes": "Codes",
+    "updates": "Updates",
+    "community": "Community",
+    "features": "Features"
   },
   "home": {
     "meta": {
@@ -436,7 +444,34 @@
       "secondary": "Play on Roblox"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Trading Tycoon Guide",
+    "overviewDescription": "Start here for Trading Tycoon guides covering the core trading loop, early-game priorities, risk management, and the habits that turn a small balance into a lasting empire."
+  },
+  "progression": {
+    "overviewTitle": "Trading Tycoon Progression",
+    "overviewDescription": "Follow the Trading Tycoon progression path: fastest ways to make money, level unlocks, and upgrade priorities that keep your portfolio compounding."
+  },
+  "mechanics": {
+    "overviewTitle": "Trading Tycoon Mechanics",
+    "overviewDescription": "Understand the Trading Tycoon trading system, market and economy rules, business types, and the strategies that make each session profitable."
+  },
+  "codes": {
+    "overviewTitle": "Trading Tycoon Codes",
+    "overviewDescription": "All Trading Tycoon codes in one place, plus how to redeem them and what each reward is worth for your next run."
+  },
+  "updates": {
+    "overviewTitle": "Trading Tycoon Updates",
+    "overviewDescription": "Trading Tycoon patch notes, roadmap teasers, and every balance change that affects trading, upgrades, and money making."
+  },
+  "community": {
+    "overviewTitle": "Trading Tycoon Community",
+    "overviewDescription": "Trading Tycoon Discord, Reddit, reviews, gameplay footage, and download details so you can play and compare notes with other traders."
+  },
+  "features": {
+    "overviewTitle": "Trading Tycoon Features",
+    "overviewDescription": "Trading Tycoon cars, items, trading values, simulator details, and Steam information for players who want the full picture."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",

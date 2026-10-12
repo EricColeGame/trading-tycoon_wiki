@@ -1,1 +1,511 @@
-{}
+{
+  "site": {
+    "name": "Trading Tycoon Wiki",
+    "shortName": "Trading Tycoon",
+    "tagline": "Códigos, estratégias de trading, upgrades e guias de progressão",
+    "description": "Sua wiki definitiva de Trading Tycoon — códigos ativos, guias para iniciantes, estratégias de mercado, tier lists de upgrades e dicas de progressão para o simulador de trading do Roblox.",
+    "legalNotice": "Wiki de fãs não oficial. Feita por jogadores, para jogadores."
+  },
+  "nav": {
+    "menu": "Menu",
+    "toggleTheme": "Alternar tema",
+    "home": "Início",
+    "guide": "Guia",
+    "progression": "Progressão",
+    "mechanics": "Mecânicas",
+    "codes": "Códigos",
+    "updates": "Atualizações",
+    "community": "Comunidade",
+    "features": "Recursos"
+  },
+  "home": {
+    "meta": {
+      "title": "Trading Tycoon Wiki — Códigos, guias de trading, upgrades e dicas de mercado",
+      "description": "Guia completo de Trading Tycoon com códigos ativos, um passo a passo para iniciantes, estratégias de trading, prioridades de upgrade e dicas para ganhar dinheiro rápido no simulador de trading do Roblox."
+    },
+    "hero": {
+      "eyebrow": "Simulador de negócios Trading Tycoon",
+      "title": "Trading Tycoon Wiki",
+      "description": "Trading Tycoon é um jogo de simulação de negócios em que os jogadores acumulam riqueza, gerenciam sistemas de trading, expandem seu império e otimizam estratégias para se tornarem magnatas de sucesso.",
+      "stats": [
+        "Todos os códigos",
+        "Estratégias de trading",
+        "Guias de upgrades",
+        "Dicas de mercado"
+      ],
+      "primaryCta": "Guia para iniciantes",
+      "secondaryCta": "Estratégias de trading",
+      "tertiaryCta": "Códigos ativos",
+      "videoLabel": "Demonstração de gameplay"
+    },
+    "updates": {
+      "title": "Últimas atualizações",
+      "browse": "Explorar todos os guias",
+      "viewAll": "Ver tudo"
+    },
+    "start": {
+      "eyebrow": "Comece aqui",
+      "title": "Sua jornada em Trading Tycoon",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guia para iniciantes",
+          "description": "Aprenda o loop de trading principal, defina suas primeiras regras de posição e construa um capital que sobreviva à sua sessão inicial."
+        },
+        {
+          "number": "2",
+          "title": "Códigos de Trading Tycoon",
+          "description": "Resgate todos os códigos ativos para ganhar capital inicial e boosts grátis, e acompanhe os novos lançamentos antes que expirem."
+        },
+        {
+          "number": "3",
+          "title": "Como ficar rico rápido",
+          "description": "Siga as rotas mais lucrativas até seus primeiros milhões, de bens baratos e de giro rápido a ativos de nível mais alto."
+        },
+        {
+          "number": "4",
+          "title": "Melhores upgrades para comprar",
+          "description": "Gaste seus primeiros lucros nos upgrades que se pagam mais rápido e potencializam cada negociação seguinte."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Guias de Trading Tycoon em alta",
+      "quickLinks": [
+        "Guia para iniciantes",
+        "Códigos ativos",
+        "Estratégia de trading",
+        "Melhores upgrades"
+      ],
+      "cards": [
+        {
+          "badge": "Iniciante",
+          "title": "Guia para iniciantes de Trading Tycoon",
+          "description": "Sua primeira sessão, as regras de dinheiro que mantêm um saldo pequeno vivo e os erros que acabam com jogadores novos.",
+          "href": "/guide/trading-tycoon-beginner-guide"
+        },
+        {
+          "badge": "Atualizado",
+          "title": "Códigos de Trading Tycoon",
+          "description": "Todos os códigos ativos com recompensas e passos de resgate, além de como identificar novos lançamentos no dia em que saem.",
+          "href": "/codes/trading-tycoon-codes"
+        },
+        {
+          "badge": "Popular",
+          "title": "Estratégia de trading de Trading Tycoon",
+          "description": "Leitura de spread, timing de entrada e saída, e as regras de risco que mantêm seu capital trabalhando em cada sessão.",
+          "href": "/mechanics/trading-tycoon-trading-strategy"
+        },
+        {
+          "badge": "Atualizado",
+          "title": "Guia de upgrades de Trading Tycoon",
+          "description": "Quais upgrades se pagam mais rápido e a ordem de prioridade que multiplica seu lucro.",
+          "href": "/progression/trading-tycoon-upgrade-guide"
+        },
+        {
+          "badge": "Popular",
+          "title": "Guia de mercado de Trading Tycoon",
+          "description": "Como oferta, demanda, liquidez e volatilidade movem os preços, e como ler cada estado do mercado.",
+          "href": "/mechanics/trading-tycoon-market"
+        },
+        {
+          "badge": "Novo",
+          "title": "Níveis e XP de Trading Tycoon",
+          "description": "De onde o XP realmente vem e a rota mais rápida por cada nível.",
+          "href": "/progression/trading-tycoon-levels"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "O que é Trading Tycoon?",
+      "paragraphs": [
+        "Trading Tycoon é um simulador de negócios e trading em que você começa com um pequeno capital e constrói um império uma posição de cada vez. Você explora o mercado, compra ativos baratos, mantém a posição em meio ao ruído, vende na força e reinveste o lucro em upgrades que permitem negociar em maior escala.",
+        "A progressão gira em torno de capital e desbloqueios, não de reflexos. Cada sessão adiciona novas classes de ativos, ferramentas de negociação mais rápidas e informações de mercado mais profundas, então Trading Tycoon recompensa planejamento, tamanho de posição e paciência muito mais do que palpites de sorte."
+      ],
+      "stats": [
+        {
+          "label": "Gênero",
+          "value": "Simulador de trading"
+        },
+        {
+          "label": "Plataforma",
+          "value": "Roblox e Steam"
+        },
+        {
+          "label": "Loop principal",
+          "value": "Explorar, comprar, vender"
+        },
+        {
+          "label": "Trilhas de upgrade",
+          "value": "6 categorias"
+        },
+        {
+          "label": "Posição máxima",
+          "value": "20–25%"
+        },
+        {
+          "label": "Reserva de caixa",
+          "value": "20–30%"
+        }
+      ],
+      "cta": "Explorar todos os guias"
+    },
+    "explore": {
+      "title": "Explore os guias de Trading Tycoon",
+      "description": "Todos os sistemas de Trading Tycoon em um só lugar — o loop para iniciantes, a estratégia de trading, os upgrades, as mecânicas de mercado, a progressão, os marcos e as atualizações.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guia para iniciantes de Trading Tycoon",
+          "description": "Aprenda o loop de trading principal, as regras de dinheiro que mantêm um saldo pequeno vivo e os passos exatos da primeira sessão que transformam um capital modesto em crescimento constante.",
+          "href": "/guide/trading-tycoon-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Percorra a interface e localize o preço, suas posições e a tela de ordens antes de gastar qualquer coisa."
+            },
+            {
+              "label": "2",
+              "detail": "Escolha um tipo de ativo e aprenda seu ritmo em vez de dividir sua atenção entre cinco mercados."
+            },
+            {
+              "label": "3",
+              "detail": "Escreva primeiro duas regras: seu tamanho máximo de posição e o ponto em que você admite que uma negociação falhou."
+            },
+            {
+              "label": "4",
+              "detail": "Faça três negociações deliberadamente pequenas para aprender taxas, spreads e velocidade de execução, não para lucrar."
+            },
+            {
+              "label": "5",
+              "detail": "Registre cada entrada planejada, a entrada real, a saída e o motivo de cada negociação."
+            },
+            {
+              "label": "6",
+              "detail": "Reinvista uma parte do lucro e mantenha um colchão de caixa para poder sempre comprar a próxima queda."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Estratégias de trading de Trading Tycoon",
+          "description": "Estratégias de mercado, timing de entrada e saída, leitura de spread e as regras de risco que mantêm seu capital trabalhando em cada sessão.",
+          "href": "/mechanics/trading-tycoon-trading-strategy",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Escanear",
+              "detail": "Confira os preços de três a cinco categorias para conhecer o spread do dia antes de gastar qualquer coisa."
+            },
+            {
+              "label": "Comprar barato",
+              "detail": "Entre abaixo da média recente com um tamanho de posição limitado em cada negociação."
+            },
+            {
+              "label": "Spreads",
+              "detail": "Spreads amplos significam que os compradores pagam acima do custo: entre e saia rápido antes que a janela feche."
+            },
+            {
+              "label": "Reserva",
+              "detail": "Guarde cerca de 20% do capital para que cada queda seja uma oportunidade e não um contratempo."
+            },
+            {
+              "label": "Rotacionar",
+              "detail": "Quando um mercado fica saturado, rotacione para um nicho menos disputado com margens melhores."
+            },
+            {
+              "label": "Reinvestir",
+              "detail": "Reinvista o lucro no giro para que seu capital trabalhe em todas as sessões, não só nas de sorte."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Guia de upgrades de Trading Tycoon",
+          "description": "Categorias de upgrades, cálculo de retorno e a ordem de prioridade que transforma uma única negociação vencedora em um império autofinanciado.",
+          "href": "/progression/trading-tycoon-upgrade-guide",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Armazenamento",
+              "detail": "Aumenta a capacidade de inventário para manter mais estoque lucrativo por rodada — uma das melhores compras iniciais.",
+              "badge": "Alta"
+            },
+            {
+              "label": "Velocidade de negociação",
+              "detail": "Encurta o tempo de espera entre entradas para você concluir mais negociações por sessão.",
+              "badge": "Alta"
+            },
+            {
+              "label": "Informação de mercado",
+              "detail": "Desbloqueia histórico de preços e previsões mais profundos para muito menos decisões às cegas.",
+              "badge": "Alta"
+            },
+            {
+              "label": "Desbloqueios",
+              "detail": "Abre classes de ativos de margem maior quando seu capital consegue sustentá-las.",
+              "badge": "Média"
+            },
+            {
+              "label": "Negociação automática",
+              "detail": "Adiciona renda passiva que continua rendendo entre suas sessões de jogo.",
+              "badge": "Média"
+            },
+            {
+              "label": "Cosméticos",
+              "detail": "Apenas aparência e prestígio — compre quando sua economia já estiver resolvida.",
+              "badge": "Baixa"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Guia de mercado de Trading Tycoon",
+          "description": "Como oferta, demanda, liquidez e volatilidade movem os preços, e como ler cada estado do mercado antes de comprometer capital.",
+          "href": "/mechanics/trading-tycoon-market",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Tendência de alta",
+              "detail": "Máximas mais altas e estoque que escoa rápido: compre pequenas quedas, mantenha e venda na força."
+            },
+            {
+              "label": "Tendência de baixa",
+              "detail": "Vendas lentas e vendedores que baixam preços: fique em caixa em vez de tentar pegar a faca caindo."
+            },
+            {
+              "label": "Lateral",
+              "detail": "Os preços oscilam dentro de um intervalo: compre perto do fundo e venda perto do topo."
+            },
+            {
+              "label": "Volume",
+              "detail": "Observe quanto está sendo negociado, não só o preço, para confirmar se um movimento é real."
+            },
+            {
+              "label": "Eventos",
+              "detail": "Atualizações e reposições criam picos curtos: venda na primeira onda, não na última."
+            },
+            {
+              "label": "Escassez",
+              "detail": "Estoque limitado e sazonal alcança preços premium sempre que a oferta aperta."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Guia de habilidades de Trading Tycoon",
+          "description": "Como desbloqueios e upgrades de habilidade remodelam suas opções, classificados por quanto mudam seus resultados em cada etapa do jogo.",
+          "href": "/progression/trading-tycoon-unlocks",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Upgrades de multiplicador de renda — combinam com todos os outros upgrades que você possui."
+            },
+            {
+              "label": "A",
+              "detail": "Velocidade de ciclo e capacidade de inventário, que aumentam diretamente o lucro por sessão."
+            },
+            {
+              "label": "B",
+              "detail": "Ferramentas de informação de mercado e automação que reduzem erros e trabalho manual."
+            },
+            {
+              "label": "C",
+              "detail": "Itens cosméticos e de prestígio sem efeito mecânico nos seus resultados de trading."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Guia de conquistas de Trading Tycoon",
+          "description": "Marcos de progressão, níveis e os objetivos que continuam recompensando você muito depois da sua primeira sessão lucrativa.",
+          "href": "/progression/trading-tycoon-levels",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Início",
+              "detail": "Construa o ciclo de hábitos: negociações pequenas, resultados registrados e uma reserva de caixa que nunca chega a zero."
+            },
+            {
+              "label": "Meio",
+              "detail": "Automatize antes de otimizar — renda constante financia a próxima rodada de upgrades."
+            },
+            {
+              "label": "Fim",
+              "detail": "Apoie-se em multiplicadores e renda passiva em vez de microgerenciar cada negociação."
+            },
+            {
+              "label": "Níveis",
+              "detail": "Cada nível de desbloqueio libera novos ativos e eleva o teto dos seus tamanhos de posição."
+            },
+            {
+              "label": "Registro",
+              "detail": "Mantenha um registro de progresso simples para saber sempre qual marco está mais próximo."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Atualizações de Trading Tycoon",
+          "description": "Notas de patch, sinais do roadmap e as mudanças de equilíbrio que remodelam os preços em silêncio para que jogadores que voltam se atualizem rápido.",
+          "href": "/updates/trading-tycoon-patch-notes",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Patches",
+              "detail": "Mudanças de equilíbrio alteram quais ativos valem a pena negociar — leia as notas antes de reinvestir."
+            },
+            {
+              "label": "Buffs",
+              "detail": "Ativos buffados costumam disparar quando os jogadores reagem, abrindo uma breve janela de venda."
+            },
+            {
+              "label": "Nerfs",
+              "detail": "Ativos nerfados perdem valor rápido — saia das posições antes da multidão."
+            },
+            {
+              "label": "Roadmap",
+              "detail": "Os próximos recursos indicam quais categorias terão nova demanda."
+            },
+            {
+              "label": "Preparação",
+              "detail": "Mantenha um colchão de caixa pronto para que uma atualização seja uma oportunidade, não um contratempo."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Perguntas frequentes de Trading Tycoon",
+          "description": "Respostas rápidas às perguntas mais comuns dos jogadores novos, de como o mercado funciona a como obter seu primeiro lucro real.",
+          "href": "/guide/trading-tycoon-tips",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Começar",
+              "detail": "Comece com negociações pequenas e planejadas e um único tipo de ativo para aprender o ritmo do mercado."
+            },
+            {
+              "label": "Lucro",
+              "detail": "Compre abaixo da média recente, limite seu tamanho de posição e venda em metas predefinidas."
+            },
+            {
+              "label": "Códigos",
+              "detail": "Resgate códigos ativos para ganhar capital e boosts grátis, e verifique novidades com frequência."
+            },
+            {
+              "label": "Upgrades",
+              "detail": "Gaste os primeiros lucros primeiro em capacidade, velocidade de negociação e informação de mercado."
+            },
+            {
+              "label": "Risco",
+              "detail": "Mantenha uma reserva de caixa de 20–30% e nunca arrisque mais de um quarto do capital em uma negociação."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Perguntas frequentes",
+      "description": "Respostas rápidas às perguntas mais comuns sobre Trading Tycoon.",
+      "items": [
+        {
+          "question": "O que é Trading Tycoon?",
+          "answer": "Trading Tycoon é um simulador de negócios e trading em que você começa com um pequeno capital, compra e vende ativos e reinveste o lucro em upgrades até que um pequeno negócio se torne um império."
+        },
+        {
+          "question": "Como ganho dinheiro rápido em Trading Tycoon?",
+          "answer": "Comece com bens baratos e de giro rápido para construir capital por volume, compre abaixo da média recente e mantenha uma reserva de caixa de 20–30% para poder agir em cada queda."
+        },
+        {
+          "question": "O que devo melhorar primeiro em Trading Tycoon?",
+          "answer": "Priorize capacidade de inventário, velocidade de negociação e informação de mercado. Eles aumentam o lucro por sessão e reduzem erros, e se pagam mais rápido que itens cosméticos."
+        },
+        {
+          "question": "Existem códigos em Trading Tycoon?",
+          "answer": "Sim. Códigos ativos de Trading Tycoon concedem capital inicial, boosts e recompensas grátis. Resgate-os no dia em que são publicados, porque a maioria dos códigos promocionais expira em poucos dias."
+        },
+        {
+          "question": "Qual é a melhor estratégia para iniciantes em Trading Tycoon?",
+          "answer": "Escolha um tipo de ativo, decida seu tamanho máximo de posição e ponto de saída antes de negociar, e registre os resultados. Consistência em cinquenta negociações supera uma vitória de sorte."
+        },
+        {
+          "question": "Em quais plataformas posso jogar Trading Tycoon?",
+          "answer": "Trading Tycoon é jogado pelo Roblox e também está disponível na Steam, então você pode construir seu império de trading na plataforma que já usa."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Pronto para dominar Trading Tycoon?",
+      "description": "Da sua primeira negociação a um próspero império de negócios, nossa wiki comunitária cobre você com guias, códigos e estratégias gratuitos e atualizados.",
+      "primary": "Ler o guia para iniciantes",
+      "secondary": "Jogar no Roblox"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guia de Trading Tycoon",
+    "overviewDescription": "Comece aqui pelos guias de Trading Tycoon que cobrem o loop de trading principal, as prioridades do início do jogo, a gestão de risco e os hábitos que transformam um saldo pequeno em um império duradouro."
+  },
+  "progression": {
+    "overviewTitle": "Progressão de Trading Tycoon",
+    "overviewDescription": "Siga a trilha de progressão de Trading Tycoon: as formas mais rápidas de ganhar dinheiro, os desbloqueios por nível e as prioridades de upgrade que mantêm seu portfólio rendendo."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecânicas de Trading Tycoon",
+    "overviewDescription": "Entenda o sistema de trading de Trading Tycoon, as regras de mercado e economia, os tipos de negócio e as estratégias que tornam cada sessão lucrativa."
+  },
+  "codes": {
+    "overviewTitle": "Códigos de Trading Tycoon",
+    "overviewDescription": "Todos os códigos de Trading Tycoon em um só lugar, além de como resgatá-los e quanto vale cada recompensa para sua próxima partida."
+  },
+  "updates": {
+    "overviewTitle": "Atualizações de Trading Tycoon",
+    "overviewDescription": "Notas de patch, prévias do roadmap e todas as mudanças de equilíbrio que afetam o trading, os upgrades e a forma de ganhar dinheiro em Trading Tycoon."
+  },
+  "community": {
+    "overviewTitle": "Comunidade de Trading Tycoon",
+    "overviewDescription": "Discord, Reddit, avaliações, vídeos de gameplay e detalhes de download de Trading Tycoon para você jogar e trocar ideias com outros traders."
+  },
+  "features": {
+    "overviewTitle": "Recursos de Trading Tycoon",
+    "overviewDescription": "Carros, itens, valores de trading, detalhes do simulador e informações da Steam de Trading Tycoon para quem quer o panorama completo."
+  },
+  "shared": {
+    "wikiNavigation": "Navegação da wiki",
+    "activeCodes": "Códigos ativos",
+    "updated": "Atualizado",
+    "viewAllCodes": "Ver todos os códigos",
+    "playOnRoblox": "Jogar no Roblox",
+    "inThisSection": "Nesta seção",
+    "tableOfContents": "Índice",
+    "nextSteps": "Próximos passos",
+    "needHelp": "Precisa de ajuda?",
+    "relatedReading": "Leitura relacionada",
+    "relatedGuides": "Guias relacionados",
+    "readMore": "Ler mais",
+    "officialMedia": "Mídia oficial",
+    "home": "Início",
+    "noGuidesAvailable": "Ainda não há guias disponíveis. Volte em breve!"
+  },
+  "footer": {
+    "aboutTitle": "Trading Tycoon Wiki",
+    "about": "Trading Tycoon Wiki é um hub de guias independente feito por fãs que cobre estratégias de trading, sistemas de mercado, upgrades, códigos e conhecimentos essenciais do jogo para jogadores novos e veteranos.",
+    "quickLinks": "Links rápidos",
+    "guides": "Guias",
+    "legal": "Legal",
+    "copyright": "2026 Trading Tycoon Wiki. Sem afiliação com os desenvolvedores do jogo ou com o Roblox.",
+    "description": "Simulador de negócios e trading gratuito no Roblox. Acumule riqueza, negocie com inteligência e expanda seu império.",
+    "playGame": "Jogar Trading Tycoon no Roblox",
+    "officialDiscord": "Discord oficial",
+    "officialYoutube": "YouTube oficial",
+    "vvBuilder": "Calculadora de trading (planejador de lucro)",
+    "beginnerGuide": "Guia para iniciantes",
+    "raceGuides": "Códigos ativos",
+    "bossGuides": "Guia de mercado",
+    "buildGuide": "Guia de upgrades",
+    "privacyPolicy": "Política de privacidade",
+    "termsOfService": "Termos de serviço"
+  }
+}

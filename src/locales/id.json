@@ -1,1 +1,511 @@
-{}
+{
+  "site": {
+    "name": "Trading Tycoon Wiki",
+    "shortName": "Trading Tycoon",
+    "tagline": "Kode, Strategi Trading, Upgrade & Panduan Progresi",
+    "description": "Wiki Trading Tycoon terlengkap Anda — kode aktif, panduan pemula, strategi pasar, tier list upgrade, dan tips progresi untuk simulator trading Roblox.",
+    "legalNotice": "Wiki penggemar tidak resmi. Dibuat oleh pemain, untuk pemain."
+  },
+  "nav": {
+    "menu": "Menu",
+    "toggleTheme": "Ganti tema",
+    "home": "Beranda",
+    "guide": "Panduan",
+    "progression": "Progresi",
+    "mechanics": "Mekanik",
+    "codes": "Kode",
+    "updates": "Pembaruan",
+    "community": "Komunitas",
+    "features": "Fitur"
+  },
+  "home": {
+    "meta": {
+      "title": "Trading Tycoon Wiki — Kode, Panduan Trading, Upgrade & Tips Pasar",
+      "description": "Panduan Trading Tycoon lengkap dengan kode aktif, tutorial pemula, strategi trading, prioritas upgrade, dan tips cepat kaya untuk simulator trading Roblox."
+    },
+    "hero": {
+      "eyebrow": "Simulator Bisnis Trading Tycoon",
+      "title": "Trading Tycoon Wiki",
+      "description": "Trading Tycoon adalah game simulasi bisnis tempat pemain membangun kekayaan, mengelola sistem trading, memperluas kerajaan mereka, dan mengoptimalkan strategi untuk menjadi taipan sukses.",
+      "stats": [
+        "Semua Kode",
+        "Strategi Trading",
+        "Panduan Upgrade",
+        "Tips Pasar"
+      ],
+      "primaryCta": "Panduan Pemula",
+      "secondaryCta": "Strategi Trading",
+      "tertiaryCta": "Kode Aktif",
+      "videoLabel": "Cuplikan Gameplay"
+    },
+    "updates": {
+      "title": "Pembaruan Terbaru",
+      "browse": "Jelajahi Semua Panduan",
+      "viewAll": "Lihat Semua"
+    },
+    "start": {
+      "eyebrow": "Mulai di Sini",
+      "title": "Perjalanan Trading Tycoon Anda",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Panduan Pemula",
+          "description": "Pelajari loop trading inti, tetapkan aturan posisi pertama Anda, dan bangun modal yang bertahan sepanjang sesi pembuka."
+        },
+        {
+          "number": "2",
+          "title": "Kode Trading Tycoon",
+          "description": "Tukarkan setiap kode aktif untuk modal awal dan boost gratis, lalu pantau kode baru sebelum kedaluwarsa."
+        },
+        {
+          "number": "3",
+          "title": "Cara Cepat Kaya",
+          "description": "Ikuti rute paling menguntungkan menuju jutaan pertama Anda, dari barang murah yang cepat berputar hingga aset tingkat tinggi."
+        },
+        {
+          "number": "4",
+          "title": "Upgrade Terbaik untuk Dibeli",
+          "description": "Belanjakan keuntungan pertama Anda pada upgrade yang paling cepat balik modal dan melipatgandakan setiap perdagangan berikutnya."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Halaman Populer",
+      "title": "Panduan Trading Tycoon yang Sedang Tren",
+      "quickLinks": [
+        "Panduan Pemula",
+        "Kode Aktif",
+        "Strategi Trading",
+        "Upgrade Terbaik"
+      ],
+      "cards": [
+        {
+          "badge": "Pemula",
+          "title": "Panduan Pemula Trading Tycoon",
+          "description": "Sesi pertama Anda, aturan uang yang menjaga saldo kecil tetap hidup, dan kesalahan yang menghabiskan pemain baru.",
+          "href": "/guide/trading-tycoon-beginner-guide"
+        },
+        {
+          "badge": "Diperbarui",
+          "title": "Kode Trading Tycoon",
+          "description": "Semua kode aktif beserta hadiah dan langkah penukarannya, plus cara menemukan kode baru di hari peluncurannya.",
+          "href": "/codes/trading-tycoon-codes"
+        },
+        {
+          "badge": "Populer",
+          "title": "Strategi Trading Trading Tycoon",
+          "description": "Membaca spread, waktu masuk dan keluar, serta aturan risiko yang menjaga modal Anda bekerja setiap sesi.",
+          "href": "/mechanics/trading-tycoon-trading-strategy"
+        },
+        {
+          "badge": "Diperbarui",
+          "title": "Panduan Upgrade Trading Tycoon",
+          "description": "Upgrade mana yang paling cepat balik modal dan urutan prioritas yang melipatgandakan keuntungan Anda.",
+          "href": "/progression/trading-tycoon-upgrade-guide"
+        },
+        {
+          "badge": "Populer",
+          "title": "Panduan Pasar Trading Tycoon",
+          "description": "Bagaimana penawaran, permintaan, likuiditas, dan volatilitas menggerakkan harga, serta cara membaca setiap kondisi pasar.",
+          "href": "/mechanics/trading-tycoon-market"
+        },
+        {
+          "badge": "Baru",
+          "title": "Level & XP Trading Tycoon",
+          "description": "Dari mana XP sebenarnya berasal dan rute tercepat melewati setiap tingkat level.",
+          "href": "/progression/trading-tycoon-levels"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Apa itu Trading Tycoon?",
+      "paragraphs": [
+        "Trading Tycoon adalah simulator bisnis dan trading tempat Anda memulai dengan modal kecil dan membangun kerajaan satu posisi demi satu posisi. Anda mengamati pasar, membeli aset saat murah, menahan posisi di tengah kebisingan, menjual saat menguat, dan menginvestasikan kembali keuntungan ke upgrade yang memungkinkan Anda berdagang lebih besar.",
+        "Progresi berjalan berdasarkan modal dan pembukaan fitur, bukan refleks. Setiap sesi menambah kelas aset baru, alat trading yang lebih cepat, dan informasi pasar yang lebih dalam, jadi Trading Tycoon jauh lebih menghargai perencanaan, ukuran posisi, dan kesabaran daripada tebakan beruntung."
+      ],
+      "stats": [
+        {
+          "label": "Genre",
+          "value": "Simulator Trading"
+        },
+        {
+          "label": "Platform",
+          "value": "Roblox & Steam"
+        },
+        {
+          "label": "Loop Inti",
+          "value": "Amati, Beli, Jual"
+        },
+        {
+          "label": "Jalur Upgrade",
+          "value": "6 Kategori"
+        },
+        {
+          "label": "Posisi Maksimal",
+          "value": "20–25%"
+        },
+        {
+          "label": "Cadangan Kas",
+          "value": "20–30%"
+        }
+      ],
+      "cta": "Jelajahi Semua Panduan"
+    },
+    "explore": {
+      "title": "Jelajahi Panduan Trading Tycoon",
+      "description": "Semua sistem Trading Tycoon dalam satu tempat — loop pemula, strategi trading, upgrade, mekanik pasar, progresi, pencapaian, dan pembaruan.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Panduan Pemula Trading Tycoon",
+          "description": "Pelajari loop trading inti, aturan uang yang menjaga saldo kecil tetap hidup, dan langkah sesi pertama yang mengubah modal sederhana menjadi pertumbuhan stabil.",
+          "href": "/guide/trading-tycoon-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Jelajahi antarmuka dan temukan tampilan harga, kepemilikan Anda, dan layar order sebelum membelanjakan apa pun."
+            },
+            {
+              "label": "2",
+              "detail": "Pilih satu jenis aset dan pelajari ritmenya alih-alih membagi perhatian ke lima pasar."
+            },
+            {
+              "label": "3",
+              "detail": "Tuliskan dua aturan lebih dulu: ukuran posisi maksimum Anda dan titik ketika Anda mengakui sebuah perdagangan gagal."
+            },
+            {
+              "label": "4",
+              "detail": "Lakukan tiga perdagangan yang sengaja kecil untuk mempelajari biaya, spread, dan kecepatan eksekusi, bukan untuk untung."
+            },
+            {
+              "label": "5",
+              "detail": "Catat setiap rencana masuk, masuk aktual, keluar, dan alasan di balik setiap perdagangan."
+            },
+            {
+              "label": "6",
+              "detail": "Investasikan kembali sebagian keuntungan dan simpan buffer kas agar Anda selalu bisa membeli penurunan berikutnya."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Strategi Trading Trading Tycoon",
+          "description": "Strategi pasar, waktu masuk dan keluar, membaca spread, dan aturan risiko yang menjaga modal Anda bekerja di setiap sesi.",
+          "href": "/mechanics/trading-tycoon-trading-strategy",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Pindai",
+              "detail": "Cek harga tiga sampai lima kategori agar Anda tahu spread hari ini sebelum membelanjakan apa pun."
+            },
+            {
+              "label": "Beli Murah",
+              "detail": "Masuk di bawah rata-rata terbaru dengan ukuran posisi yang dibatasi pada setiap perdagangan."
+            },
+            {
+              "label": "Spread",
+              "detail": "Spread lebar berarti pembeli membayar di atas biaya — masuk dan keluar cepat sebelum jendela tertutup."
+            },
+            {
+              "label": "Cadangan",
+              "detail": "Tahan sekitar 20% modal agar setiap penurunan menjadi peluang, bukan kemunduran."
+            },
+            {
+              "label": "Rotasi",
+              "detail": "Saat pasar penuh, rotasi ke ceruk yang lebih sepi dengan margin lebih baik."
+            },
+            {
+              "label": "Investasi Ulang",
+              "detail": "Lipatgandakan keuntungan ke perputaran agar modal Anda bekerja di setiap sesi, bukan hanya yang beruntung."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Panduan Upgrade Trading Tycoon",
+          "description": "Kategori upgrade, perhitungan balik modal, dan urutan prioritas yang mengubah satu perdagangan menang menjadi kerajaan yang membiayai dirinya sendiri.",
+          "href": "/progression/trading-tycoon-upgrade-guide",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Penyimpanan",
+              "detail": "Menaikkan kapasitas inventaris agar Anda bisa menahan lebih banyak stok menguntungkan per putaran — pembelian awal terbaik.",
+              "badge": "Tinggi"
+            },
+            {
+              "label": "Kecepatan Trading",
+              "detail": "Memperpendek jeda antar entri sehingga Anda menyelesaikan lebih banyak perdagangan per sesi.",
+              "badge": "Tinggi"
+            },
+            {
+              "label": "Info Pasar",
+              "detail": "Membuka riwayat harga dan perkiraan yang lebih dalam untuk jauh lebih sedikit keputusan membabi buta.",
+              "badge": "Tinggi"
+            },
+            {
+              "label": "Pembukaan Fitur",
+              "detail": "Membuka kelas aset bermargin lebih tinggi begitu modal Anda mampu menopangnya.",
+              "badge": "Sedang"
+            },
+            {
+              "label": "Trading Otomatis",
+              "detail": "Menambah pendapatan pasif yang terus menghasilkan di antara sesi bermain Anda.",
+              "badge": "Sedang"
+            },
+            {
+              "label": "Kosmetik",
+              "detail": "Hanya penampilan dan prestise — beli setelah ekonomi Anda sudah beres.",
+              "badge": "Rendah"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Panduan Pasar Trading Tycoon",
+          "description": "Bagaimana penawaran, permintaan, likuiditas, dan volatilitas menggerakkan harga, serta cara membaca setiap kondisi pasar sebelum menaruh modal.",
+          "href": "/mechanics/trading-tycoon-market",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Tren Naik",
+              "detail": "Puncak yang makin tinggi dan stok cepat habis: beli penurunan kecil, tahan, dan jual saat menguat."
+            },
+            {
+              "label": "Tren Turun",
+              "detail": "Penjualan lambat dan penjual saling memotong harga: tetap pegang kas daripada menangkap pisau jatuh."
+            },
+            {
+              "label": "Mendatar",
+              "detail": "Harga memantul dalam rentang: beli dekat dasar dan jual dekat puncak."
+            },
+            {
+              "label": "Volume",
+              "detail": "Perhatikan seberapa banyak yang diperdagangkan, bukan hanya harganya, untuk memastikan pergerakan itu nyata."
+            },
+            {
+              "label": "Acara",
+              "detail": "Pembaruan dan restok menciptakan lonjakan singkat: jual pada gelombang pertama, bukan yang terakhir."
+            },
+            {
+              "label": "Kelangkaan",
+              "detail": "Stok terbatas dan musiman menetapkan harga premium setiap kali pasokan mengetat."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Panduan Skill Trading Tycoon",
+          "description": "Bagaimana pembukaan fitur dan upgrade kemampuan mengubah pilihan Anda, diperingkat berdasarkan seberapa besar pengaruhnya pada hasil di setiap tahap permainan.",
+          "href": "/progression/trading-tycoon-unlocks",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Upgrade pengganda pendapatan — berlipat ganda dengan setiap upgrade lain yang Anda miliki."
+            },
+            {
+              "label": "A",
+              "detail": "Kecepatan siklus dan kapasitas inventaris, yang langsung menaikkan keuntungan per sesi."
+            },
+            {
+              "label": "B",
+              "detail": "Alat informasi pasar dan otomatisasi yang mengurangi kesalahan dan kerja manual."
+            },
+            {
+              "label": "C",
+              "detail": "Item kosmetik dan prestise tanpa efek mekanis pada hasil trading Anda."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Panduan Pencapaian Trading Tycoon",
+          "description": "Pencapaian progresi, tingkat level, dan tujuan yang terus memberi hadiah jauh setelah sesi pertama Anda yang menguntungkan.",
+          "href": "/progression/trading-tycoon-levels",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Awal",
+              "detail": "Bangun loop kebiasaan: perdagangan kecil, hasil tercatat, dan cadangan kas yang tidak pernah nol."
+            },
+            {
+              "label": "Menengah",
+              "detail": "Otomatiskan sebelum mengoptimalkan — pendapatan stabil membiayai putaran upgrade berikutnya."
+            },
+            {
+              "label": "Akhir",
+              "detail": "Andalkan pengganda dan pendapatan pasif alih-alih mengatur setiap perdagangan secara mikro."
+            },
+            {
+              "label": "Tingkat",
+              "detail": "Setiap tingkat pembukaan fitur membuka aset baru dan menaikkan batas ukuran posisi Anda."
+            },
+            {
+              "label": "Catatan",
+              "detail": "Simpan catatan progres sederhana agar Anda selalu tahu pencapaian mana yang paling dekat."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Pembaruan Trading Tycoon",
+          "description": "Catatan patch, sinyal roadmap, dan perubahan keseimbangan yang diam-diam mengubah harga agar pemain yang kembali bisa mengejar cepat.",
+          "href": "/updates/trading-tycoon-patch-notes",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Patch",
+              "detail": "Perubahan keseimbangan menggeser aset mana yang layak diperdagangkan — baca catatannya sebelum berinvestasi ulang."
+            },
+            {
+              "label": "Buff",
+              "detail": "Aset yang di-buff sering melonjak saat pemain bereaksi, membuka jendela jual singkat."
+            },
+            {
+              "label": "Nerf",
+              "detail": "Aset yang di-nerf cepat kehilangan nilai — keluar dari posisi sebelum orang banyak."
+            },
+            {
+              "label": "Roadmap",
+              "detail": "Fitur mendatang memberi petunjuk kategori mana yang akan mengalami permintaan baru."
+            },
+            {
+              "label": "Persiapan",
+              "detail": "Siapkan buffer kas agar pembaruan menjadi peluang, bukan kemunduran."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Pertanyaan Umum Trading Tycoon",
+          "description": "Jawaban cepat atas pertanyaan yang paling sering diajukan pemain baru, dari cara kerja pasar hingga cara mendapat keuntungan nyata pertama.",
+          "href": "/guide/trading-tycoon-tips",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Mulai",
+              "detail": "Mulai dengan perdagangan kecil yang terencana dan satu jenis aset untuk mempelajari ritme pasar."
+            },
+            {
+              "label": "Untung",
+              "detail": "Beli di bawah rata-rata terbaru, batasi ukuran posisi, dan jual pada target yang sudah ditetapkan."
+            },
+            {
+              "label": "Kode",
+              "detail": "Tukarkan kode aktif untuk modal dan boost gratis, dan sering cek kode baru."
+            },
+            {
+              "label": "Upgrade",
+              "detail": "Belanjakan keuntungan awal untuk kapasitas, kecepatan trading, dan info pasar lebih dulu."
+            },
+            {
+              "label": "Risiko",
+              "detail": "Simpan cadangan kas 20–30% dan jangan pernah mempertaruhkan lebih dari seperempat modal pada satu perdagangan."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Pertanyaan yang Sering Diajukan",
+      "description": "Jawaban cepat untuk pertanyaan Trading Tycoon yang paling umum.",
+      "items": [
+        {
+          "question": "Apa itu Trading Tycoon?",
+          "answer": "Trading Tycoon adalah simulator bisnis dan trading tempat Anda memulai dengan modal kecil, membeli dan menjual aset, dan menginvestasikan kembali keuntungan ke upgrade sampai usaha kecil menjadi kerajaan."
+        },
+        {
+          "question": "Bagaimana cara cepat menghasilkan uang di Trading Tycoon?",
+          "answer": "Mulai dengan barang murah yang cepat berputar untuk membangun modal lewat volume, beli di bawah rata-rata terbaru, dan simpan cadangan kas 20–30% agar Anda bisa bertindak pada setiap penurunan."
+        },
+        {
+          "question": "Apa yang harus saya upgrade lebih dulu di Trading Tycoon?",
+          "answer": "Prioritaskan kapasitas inventaris, kecepatan trading, dan informasi pasar. Semuanya menaikkan keuntungan per sesi dan mengurangi kesalahan, serta lebih cepat balik modal daripada item kosmetik."
+        },
+        {
+          "question": "Apakah ada kode di Trading Tycoon?",
+          "answer": "Ya. Kode aktif Trading Tycoon memberikan modal awal, boost, dan hadiah gratis. Tukarkan pada hari kode diposting, karena sebagian besar kode promosi kedaluwarsa dalam beberapa hari."
+        },
+        {
+          "question": "Apa strategi terbaik untuk pemula di Trading Tycoon?",
+          "answer": "Pilih satu jenis aset, tentukan ukuran posisi maksimum dan titik keluar sebelum berdagang, lalu catat hasilnya. Konsistensi dalam lima puluh perdagangan mengalahkan satu kemenangan beruntung."
+        },
+        {
+          "question": "Di platform apa saya bisa memainkan Trading Tycoon?",
+          "answer": "Trading Tycoon dimainkan melalui Roblox dan juga tersedia di Steam, jadi Anda bisa membangun kerajaan trading di platform yang sudah Anda gunakan."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Siap Menguasai Trading Tycoon?",
+      "description": "Dari perdagangan pertama Anda hingga kerajaan bisnis yang berkembang, wiki komunitas kami menyediakan panduan, kode, dan strategi gratis yang selalu diperbarui.",
+      "primary": "Baca Panduan Pemula",
+      "secondary": "Main di Roblox"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Panduan Trading Tycoon",
+    "overviewDescription": "Mulai di sini untuk panduan Trading Tycoon yang mencakup loop trading inti, prioritas awal permainan, manajemen risiko, dan kebiasaan yang mengubah saldo kecil menjadi kerajaan yang bertahan lama."
+  },
+  "progression": {
+    "overviewTitle": "Progresi Trading Tycoon",
+    "overviewDescription": "Ikuti jalur progresi Trading Tycoon: cara tercepat menghasilkan uang, pembukaan fitur per level, dan prioritas upgrade yang menjaga portofolio Anda terus berkembang."
+  },
+  "mechanics": {
+    "overviewTitle": "Mekanik Trading Tycoon",
+    "overviewDescription": "Pahami sistem trading Trading Tycoon, aturan pasar dan ekonomi, jenis bisnis, dan strategi yang membuat setiap sesi menguntungkan."
+  },
+  "codes": {
+    "overviewTitle": "Kode Trading Tycoon",
+    "overviewDescription": "Semua kode Trading Tycoon di satu tempat, plus cara menukarkannya dan berapa nilai setiap hadiah untuk permainan berikutnya."
+  },
+  "updates": {
+    "overviewTitle": "Pembaruan Trading Tycoon",
+    "overviewDescription": "Catatan patch, bocoran roadmap, dan setiap perubahan keseimbangan yang memengaruhi trading, upgrade, dan cara menghasilkan uang di Trading Tycoon."
+  },
+  "community": {
+    "overviewTitle": "Komunitas Trading Tycoon",
+    "overviewDescription": "Discord, Reddit, ulasan, cuplikan gameplay, dan detail unduhan Trading Tycoon agar Anda bisa bermain dan bertukar pikiran dengan trader lain."
+  },
+  "features": {
+    "overviewTitle": "Fitur Trading Tycoon",
+    "overviewDescription": "Mobil, item, nilai trading, detail simulator, dan informasi Steam Trading Tycoon untuk pemain yang ingin gambaran lengkap."
+  },
+  "shared": {
+    "wikiNavigation": "Navigasi Wiki",
+    "activeCodes": "Kode Aktif",
+    "updated": "Diperbarui",
+    "viewAllCodes": "Lihat semua kode",
+    "playOnRoblox": "Main di Roblox",
+    "inThisSection": "Di bagian ini",
+    "tableOfContents": "Daftar Isi",
+    "nextSteps": "Langkah Berikutnya",
+    "needHelp": "Butuh Bantuan?",
+    "relatedReading": "Bacaan Terkait",
+    "relatedGuides": "Panduan Terkait",
+    "readMore": "Baca selengkapnya",
+    "officialMedia": "Media resmi",
+    "home": "Beranda",
+    "noGuidesAvailable": "Belum ada panduan tersedia. Periksa lagi nanti!"
+  },
+  "footer": {
+    "aboutTitle": "Trading Tycoon Wiki",
+    "about": "Trading Tycoon Wiki adalah pusat panduan independen buatan penggemar yang mencakup strategi trading, sistem pasar, upgrade, kode, dan pengetahuan penting permainan bagi pemain baru maupun veteran.",
+    "quickLinks": "Tautan Cepat",
+    "guides": "Panduan",
+    "legal": "Legal",
+    "copyright": "2026 Trading Tycoon Wiki. Tidak berafiliasi dengan pengembang game atau Roblox.",
+    "description": "Simulator bisnis dan trading gratis di Roblox. Bangun kekayaan, berdagang cerdas, dan perluas kerajaan Anda.",
+    "playGame": "Mainkan Trading Tycoon di Roblox",
+    "officialDiscord": "Discord Resmi",
+    "officialYoutube": "YouTube Resmi",
+    "vvBuilder": "Kalkulator Trading (Perencana Keuntungan)",
+    "beginnerGuide": "Panduan Pemula",
+    "raceGuides": "Kode Aktif",
+    "bossGuides": "Panduan Pasar",
+    "buildGuide": "Panduan Upgrade",
+    "privacyPolicy": "Kebijakan Privasi",
+    "termsOfService": "Ketentuan Layanan"
+  }
+}

@@ -2,8 +2,8 @@
   "site": {
     "name": "Trading Tycoon Wiki",
     "shortName": "Trading Tycoon",
-    "tagline": "Complete Guides, Codes, Recipes & Tier Lists",
-    "description": "Your ultimate guide to Trading Tycoon on Roblox! Explore active codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
+    "tagline": "Codes, Trading Strategies, Upgrades & Progression Guides",
+    "description": "Your ultimate Trading Tycoon wiki — active codes, beginner guides, market strategies, upgrade tier lists, and progression tips for the Roblox trading simulator.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
   "nav": {
@@ -30,19 +30,19 @@
       "description": "Complete Trading Tycoon guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
     },
     "hero": {
-      "eyebrow": "Fan-Made Community Wiki",
-      "title": "Trading Tycoon",
-      "description": "Master your restaurant in Trading Tycoon on Roblox. Access all active codes, complete fish & recipe catalog, optimal upgrades, and pro money-making strategies.",
+      "eyebrow": "Business Trading Tycoon Simulator",
+      "title": "Trading Tycoon Wiki",
+      "description": "Trading Tycoon is a business simulation game where players build wealth, manage trading systems, expand their empire, and optimize strategies to become successful tycoons.",
       "stats": [
         "All Codes",
-        "All Fish & Recipes",
+        "Trading Strategies",
         "Upgrade Guides",
-        "Fast Cash Tips"
+        "Market Tips"
       ],
       "primaryCta": "Beginner Guide",
-      "secondaryCta": "Seafood Tier List",
+      "secondaryCta": "Trading Strategies",
       "tertiaryCta": "Active Codes",
-      "videoLabel": "Official media"
+      "videoLabel": "Gameplay Showcase"
     },
     "updates": {
       "title": "Latest Updates",
@@ -343,7 +343,7 @@
     },
     "finalCta": {
       "title": "Ready to Master Trading Tycoon?",
-      "description": "From your first steps in Fort Adams to endgame boss fights our community wiki has you covered with free, up-to-date guides.",
+      "description": "From your first trade to a thriving business empire, our community wiki has you covered with free, up-to-date guides, codes, and strategies.",
       "primary": "Read the Beginner Guide",
       "secondary": "Play on Roblox"
     }
@@ -380,20 +380,20 @@
   },
   "footer": {
     "aboutTitle": "Trading Tycoon Wiki",
-    "about": "Trading Tycoon Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.",
+    "about": "Trading Tycoon Wiki is an independent fan-built guide hub covering trading strategies, market systems, upgrades, codes, and essential game knowledge for new and veteran players alike.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "legal": "Legal",
-    "copyright": "2026 Trading Tycoon Wiki. Not affiliated with Kits Gaming Studio or Roblox.",
-    "description": "Free Bleach-inspired fighting RPG on Roblox. 3 races, 130+ skills, Lv100 cap.",
-    "playGame": "Play Trading Tycoon",
+    "copyright": "2026 Trading Tycoon Wiki. Not affiliated with the game's developers or Roblox.",
+    "description": "Free business trading tycoon simulator on Roblox. Build wealth, trade smart, and expand your empire.",
+    "playGame": "Play Trading Tycoon on Roblox",
     "officialDiscord": "Official Discord",
     "officialYoutube": "Official YouTube",
-    "vvBuilder": "VV Builder (Skill Planner)",
+    "vvBuilder": "Trading Calculator (Profit Planner)",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "raceGuides": "Active Codes",
+    "bossGuides": "Market Guide",
+    "buildGuide": "Upgrade Guide",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }

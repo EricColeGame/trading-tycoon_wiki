@@ -24,7 +24,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID;
   return {
     metadataBase: new URL(siteUrl),
-    title: { default: "Trading Tycoon Wiki - Codes, Guides & Trading Tips", template: "%s" },
+    title: { default: "Trading Tycoon Wiki", template: "%s" },
     description: "Trading Tycoon Wiki provides game guides, trading tips, codes, strategies, and useful information to help players build their business empire faster.",
     manifest: "/manifest.json",
     icons: { icon: ["/favicon-32x32.png", "/favicon-16x16.png", "/favicon.ico"], apple: "/apple-touch-icon.png" },

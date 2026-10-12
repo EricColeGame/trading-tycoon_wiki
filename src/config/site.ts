@@ -25,7 +25,7 @@ export const siteConfig: SiteConfig = {
   tagline: "Codes, Market Strategies, Upgrades & Progression Guides",
   description: "Your ultimate Trading Tycoon wiki — active codes, beginner guides, market strategies, upgrade tier lists and progression tips for the Roblox trading simulator.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://trading-tycoon.wiki",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://trading-tycoon.wiki").hostname.replace(/^www\./, "")}`,
+  supportEmail: "support@trading-tycoon.wiki",
   gameUrl: "https://www.roblox.com/games/112241277471797/Trading-Tycoon",
   heroVideoId: "m3uxtsjK67s", // "NOOB to PRO Roblox Trading Tycoon" gameplay showcase
   social: {

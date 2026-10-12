@@ -19,15 +19,15 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "My Seafood Stand Wiki",
-  shortName: "My Seafood Stand",
-  logoText: "SS",
-  tagline: "Complete Guides, Codes, Recipes & Tier Lists",
-  description: "Your ultimate guide to My Seafood Stand on Roblox! Explore active working codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top").hostname.replace(/^www\./, "")}`,
-  gameUrl: "https://www.roblox.com/games/my-seafood-stand",
-  heroVideoId: "M8DvcwoFRrk", // Roblox My Seafood Stand codes & gameplay video
+  name: "Trading Tycoon Wiki",
+  shortName: "Trading Tycoon",
+  logoText: "TT",
+  tagline: "Codes, Market Strategies, Upgrades & Progression Guides",
+  description: "Your ultimate Trading Tycoon wiki — active codes, beginner guides, market strategies, upgrade tier lists and progression tips for the Roblox trading simulator.",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://trading-tycoon.wiki",
+  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://trading-tycoon.wiki").hostname.replace(/^www\./, "")}`,
+  gameUrl: "https://www.roblox.com/games/112241277471797/Trading-Tycoon",
+  heroVideoId: "m3uxtsjK67s", // "NOOB to PRO Roblox Trading Tycoon" gameplay showcase
   social: {
     discord: "https://discord.gg/roblox",
     youtube: "https://www.youtube.com/@roblox",
